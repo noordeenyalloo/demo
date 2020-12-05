@@ -1,14 +1,37 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "Id":1,
+        "FirstName":"Noureddin",
+        "LastName":"Dheifallah"
+    },
+    {
+        "Id":2,
+        "FirstName":"Razan",
+        "LastName":"R"
+    },
+    {
+        "Id":3,
+        "FirstName":"Zain",
+        "LastName":"Z"
+    },
+    {
+        "Id":4,
+        "FirstName":"Raed",
+        "LastName":"Z"
+    },
+    {
+        "Id":5,
+        "FirstName":"Samer",
+        "LastName":"S"
+    },
+    {
+        "Id":6,
+        "FirstName":"Rahaf",
+        "LastName":"R"
+    },
+    {
+        "Id":7,
+        "FirstName":"James",
+        "LastName":"J"
+    }
+]
